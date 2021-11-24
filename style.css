@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+}
+button {
+  margin: 50%;
+  color: coral;
+  background-color: black;
+  border-color: coral;
+  padding: 8px;
+}
+button:hover {
+  border-color: yellow;
+  color: yellow;
+  margin-top: 49%;
+  box-shadow: yellow;
+}
